@@ -1,1 +1,1 @@
-(cat /tmp/payload ; cat) | ./ch10
+(cat /tmp/payload ; cat) | ./Binary
